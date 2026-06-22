@@ -21,6 +21,7 @@ DOCKER_RPM_NAMES=(
     "containerd"
     "docker-cli"
     "libseccomp"
+    "parted"
 )
 
 # ---------------------------------------------------------------------------
